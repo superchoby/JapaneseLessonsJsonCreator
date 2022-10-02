@@ -1,1 +1,407 @@
-{"食べる":{"kanaVersion":"たべる","verbGroup":"一段","conjugations":{"masuForm":{"kanji":"食べます","kana":"たべます"},"naiForm":{"kanji":"食べない","kana":"たべない"},"masenForm":{"kanji":"食べません","kana":"たべません"},"taForm":{"kanji":"食べた","kana":"たべた"},"teForm":{"kanji":"食べて","kana":"たべて"}}}}
+{
+  "食べる": {
+    "word": "食べる",
+    "kanaVersion": "たべる",
+    "verbGroup": "一段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "食べます",
+        "kana": "たべます"
+      },
+      "naiForm": {
+        "kanji": "食べない",
+        "kana": "たべない"
+      },
+      "masenForm": {
+        "kanji": "食べません",
+        "kana": "たべません"
+      },
+      "taForm": {
+        "kanji": "食べた",
+        "kana": "たべた"
+      },
+      "teForm": {
+        "kanji": "食べて",
+        "kana": "たべて"
+      }
+    }
+  },
+  "寝る": {
+    "word": "寝る",
+    "kanaVersion": "ねる",
+    "verbGroup": "一段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "寝ます",
+        "kana": "ねます"
+      },
+      "naiForm": {
+        "kanji": "寝ない",
+        "kana": "ねない"
+      },
+      "masenForm": {
+        "kanji": "寝ません",
+        "kana": "ねません"
+      },
+      "taForm": {
+        "kanji": "寝た",
+        "kana": "ねた"
+      },
+      "teForm": {
+        "kanji": "寝て",
+        "kana": "ねて"
+      }
+    }
+  },
+  "見る": {
+    "word": "見る",
+    "kanaVersion": "みる",
+    "verbGroup": "一段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "見ます",
+        "kana": "みます"
+      },
+      "naiForm": {
+        "kanji": "見ない",
+        "kana": "みない"
+      },
+      "masenForm": {
+        "kanji": "見ません",
+        "kana": "みません"
+      },
+      "taForm": {
+        "kanji": "見た",
+        "kana": "みた"
+      },
+      "teForm": {
+        "kanji": "見て",
+        "kana": "みて"
+      }
+    }
+  },
+  "考える": {
+    "word": "考える",
+    "kanaVersion": "かんがえる",
+    "verbGroup": "一段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "考えます",
+        "kana": "かんがえます"
+      },
+      "naiForm": {
+        "kanji": "考えない",
+        "kana": "かんがえない"
+      },
+      "masenForm": {
+        "kanji": "考えません",
+        "kana": "かんがえません"
+      },
+      "taForm": {
+        "kanji": "考えた",
+        "kana": "かんがえた"
+      },
+      "teForm": {
+        "kanji": "考えて",
+        "kana": "かんがえて"
+      }
+    }
+  },
+  "起きる": {
+    "word": "起きる",
+    "kanaVersion": "おきる",
+    "verbGroup": "一段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "起きます",
+        "kana": "おきます"
+      },
+      "naiForm": {
+        "kanji": "起きない",
+        "kana": "おきない"
+      },
+      "masenForm": {
+        "kanji": "起きません",
+        "kana": "おきません"
+      },
+      "taForm": {
+        "kanji": "起きた",
+        "kana": "おきた"
+      },
+      "teForm": {
+        "kanji": "起きて",
+        "kana": "おきて"
+      }
+    }
+  },
+  "出る": {
+    "word": "出る",
+    "kanaVersion": "でる",
+    "verbGroup": "一段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "出ます",
+        "kana": "でます"
+      },
+      "naiForm": {
+        "kanji": "出ない",
+        "kana": "でない"
+      },
+      "masenForm": {
+        "kanji": "出ません",
+        "kana": "でません"
+      },
+      "taForm": {
+        "kanji": "出た",
+        "kana": "でた"
+      },
+      "teForm": {
+        "kanji": "出て",
+        "kana": "でて"
+      }
+    }
+  },
+  "借りる": {
+    "word": "借りる",
+    "kanaVersion": "かりる",
+    "verbGroup": "一段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "借ります",
+        "kana": "かります"
+      },
+      "naiForm": {
+        "kanji": "借りない",
+        "kana": "かりない"
+      },
+      "masenForm": {
+        "kanji": "借りません",
+        "kana": "かりません"
+      },
+      "taForm": {
+        "kanji": "借りた",
+        "kana": "かりた"
+      },
+      "teForm": {
+        "kanji": "借りて",
+        "kana": "かりて"
+      }
+    }
+  },
+  "聞く": {
+    "word": "聞く",
+    "kanaVersion": "きく",
+    "verbGroup": "五段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "聞きます",
+        "kana": "聞きます"
+      },
+      "naiForm": {
+        "kanji": "聞かない",
+        "kana": "聞かない"
+      },
+      "masenForm": {
+        "kanji": "聞きません",
+        "kana": "聞きません"
+      },
+      "taForm": {
+        "kanji": "聞いて",
+        "kana": "聞いて"
+      },
+      "teForm": {
+        "kanji": "聞いた",
+        "kana": "聞いた"
+      }
+    }
+  },
+  "泳ぐ": {
+    "word": "泳ぐ",
+    "kanaVersion": "およぐ",
+    "verbGroup": "五段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "泳ぐぎます",
+        "kana": "泳ぐぎます"
+      },
+      "naiForm": {
+        "kanji": "泳ぐがない",
+        "kana": "泳ぐがない"
+      },
+      "masenForm": {
+        "kanji": "泳ぐぎません",
+        "kana": "泳ぐぎません"
+      },
+      "taForm": {
+        "kanji": "泳ぐいで",
+        "kana": "泳ぐいで"
+      },
+      "teForm": {
+        "kanji": "泳ぐいだ",
+        "kana": "泳ぐいだ"
+      }
+    }
+  },
+  "遊ぶ": {
+    "word": "遊ぶ",
+    "kanaVersion": "あそぶ",
+    "verbGroup": "五段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "遊ぶびます",
+        "kana": "遊ぶびます"
+      },
+      "naiForm": {
+        "kanji": "遊ぶばない",
+        "kana": "遊ぶばない"
+      },
+      "masenForm": {
+        "kanji": "遊ぶびません",
+        "kana": "遊ぶびません"
+      },
+      "taForm": {
+        "kanji": "遊ぶんで",
+        "kana": "遊ぶんで"
+      },
+      "teForm": {
+        "kanji": "遊ぶんだ",
+        "kana": "遊ぶんだ"
+      }
+    }
+  },
+  "飲む": {
+    "word": "飲む",
+    "kanaVersion": "のむ",
+    "verbGroup": "五段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "飲みます",
+        "kana": "飲みます"
+      },
+      "naiForm": {
+        "kanji": "飲まない",
+        "kana": "飲まない"
+      },
+      "masenForm": {
+        "kanji": "飲みません",
+        "kana": "飲みません"
+      },
+      "taForm": {
+        "kanji": "飲んで",
+        "kana": "飲んで"
+      },
+      "teForm": {
+        "kanji": "飲んだ",
+        "kana": "飲んだ"
+      }
+    }
+  },
+  "買う": {
+    "word": "買う",
+    "kanaVersion": "かう",
+    "verbGroup": "五段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "買います",
+        "kana": "買います"
+      },
+      "naiForm": {
+        "kanji": "買あない",
+        "kana": "買あない"
+      },
+      "masenForm": {
+        "kanji": "買いません",
+        "kana": "買いません"
+      },
+      "taForm": {
+        "kanji": "買って",
+        "kana": "買って"
+      },
+      "teForm": {
+        "kanji": "買った",
+        "kana": "買った"
+      }
+    }
+  },
+  "読む": {
+    "word": "読む",
+    "kanaVersion": "よむ",
+    "verbGroup": "五段",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "読みます",
+        "kana": "読みます"
+      },
+      "naiForm": {
+        "kanji": "読まない",
+        "kana": "読まない"
+      },
+      "masenForm": {
+        "kanji": "読みません",
+        "kana": "読みません"
+      },
+      "taForm": {
+        "kanji": "読んで",
+        "kana": "読んで"
+      },
+      "teForm": {
+        "kanji": "読んだ",
+        "kana": "読んだ"
+      }
+    }
+  },
+  "する": {
+    "word": "する",
+    "kanaVersion": "する",
+    "verbGroup": "Irregular",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "します",
+        "kana": "します"
+      },
+      "naiForm": {
+        "kanji": "しない",
+        "kana": "しない"
+      },
+      "masenForm": {
+        "kanji": "しません",
+        "kana": "しません"
+      },
+      "taForm": {
+        "kanji": "した",
+        "kana": "した"
+      },
+      "teForm": {
+        "kanji": "して",
+        "kana": "して"
+      }
+    }
+  },
+  "来る": {
+    "word": "来る",
+    "kanaVersion": "くる",
+    "verbGroup": "Irregular",
+    "conjugations": {
+      "masuForm": {
+        "kanji": "来ます",
+        "kana": "きます"
+      },
+      "naiForm": {
+        "kanji": "来ない",
+        "kana": "こない"
+      },
+      "masenForm": {
+        "kanji": "来ません",
+        "kana": "きません"
+      },
+      "taForm": {
+        "kanji": "来た",
+        "kana": "きた"
+      },
+      "teForm": {
+        "kanji": "来て",
+        "kana": "きて"
+      }
+    }
+  }
+}
