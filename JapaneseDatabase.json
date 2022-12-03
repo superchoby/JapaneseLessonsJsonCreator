@@ -195,23 +195,23 @@
     "conjugations": {
       "masuForm": {
         "kanji": "聞きます",
-        "kana": "聞きます"
+        "kana": "ききます"
       },
       "naiForm": {
         "kanji": "聞かない",
-        "kana": "聞かない"
+        "kana": "きかない"
       },
       "masenForm": {
         "kanji": "聞きません",
-        "kana": "聞きません"
+        "kana": "ききません"
       },
       "taForm": {
         "kanji": "聞いて",
-        "kana": "聞いて"
+        "kana": "きいて"
       },
       "teForm": {
         "kanji": "聞いた",
-        "kana": "聞いた"
+        "kana": "きいた"
       }
     }
   },
@@ -221,24 +221,24 @@
     "verbGroup": "五段",
     "conjugations": {
       "masuForm": {
-        "kanji": "泳ぐぎます",
-        "kana": "泳ぐぎます"
+        "kanji": "泳ぎます",
+        "kana": "およぎます"
       },
       "naiForm": {
-        "kanji": "泳ぐがない",
-        "kana": "泳ぐがない"
+        "kanji": "泳がない",
+        "kana": "およがない"
       },
       "masenForm": {
-        "kanji": "泳ぐぎません",
-        "kana": "泳ぐぎません"
+        "kanji": "泳ぎません",
+        "kana": "およぎません"
       },
       "taForm": {
-        "kanji": "泳ぐいで",
-        "kana": "泳ぐいで"
+        "kanji": "泳いで",
+        "kana": "およいで"
       },
       "teForm": {
-        "kanji": "泳ぐいだ",
-        "kana": "泳ぐいだ"
+        "kanji": "泳いだ",
+        "kana": "およいだ"
       }
     }
   },
@@ -248,24 +248,24 @@
     "verbGroup": "五段",
     "conjugations": {
       "masuForm": {
-        "kanji": "遊ぶびます",
-        "kana": "遊ぶびます"
+        "kanji": "遊びます",
+        "kana": "あそびます"
       },
       "naiForm": {
-        "kanji": "遊ぶばない",
-        "kana": "遊ぶばない"
+        "kanji": "遊ばない",
+        "kana": "あそばない"
       },
       "masenForm": {
-        "kanji": "遊ぶびません",
-        "kana": "遊ぶびません"
+        "kanji": "遊びません",
+        "kana": "あそびません"
       },
       "taForm": {
-        "kanji": "遊ぶんで",
-        "kana": "遊ぶんで"
+        "kanji": "遊んで",
+        "kana": "あそんで"
       },
       "teForm": {
-        "kanji": "遊ぶんだ",
-        "kana": "遊ぶんだ"
+        "kanji": "遊んだ",
+        "kana": "あそんだ"
       }
     }
   },
@@ -276,23 +276,23 @@
     "conjugations": {
       "masuForm": {
         "kanji": "飲みます",
-        "kana": "飲みます"
+        "kana": "のみます"
       },
       "naiForm": {
         "kanji": "飲まない",
-        "kana": "飲まない"
+        "kana": "のまない"
       },
       "masenForm": {
         "kanji": "飲みません",
-        "kana": "飲みません"
+        "kana": "のみません"
       },
       "taForm": {
         "kanji": "飲んで",
-        "kana": "飲んで"
+        "kana": "のんで"
       },
       "teForm": {
         "kanji": "飲んだ",
-        "kana": "飲んだ"
+        "kana": "のんだ"
       }
     }
   },
@@ -303,23 +303,23 @@
     "conjugations": {
       "masuForm": {
         "kanji": "買います",
-        "kana": "買います"
+        "kana": "かいます"
       },
       "naiForm": {
-        "kanji": "買あない",
-        "kana": "買あない"
+        "kanji": "買わない",
+        "kana": "かわない"
       },
       "masenForm": {
         "kanji": "買いません",
-        "kana": "買いません"
+        "kana": "かいません"
       },
       "taForm": {
         "kanji": "買って",
-        "kana": "買って"
+        "kana": "かって"
       },
       "teForm": {
         "kanji": "買った",
-        "kana": "買った"
+        "kana": "かった"
       }
     }
   },
@@ -330,23 +330,23 @@
     "conjugations": {
       "masuForm": {
         "kanji": "読みます",
-        "kana": "読みます"
+        "kana": "よみます"
       },
       "naiForm": {
         "kanji": "読まない",
-        "kana": "読まない"
+        "kana": "よまない"
       },
       "masenForm": {
         "kanji": "読みません",
-        "kana": "読みません"
+        "kana": "よみません"
       },
       "taForm": {
         "kanji": "読んで",
-        "kana": "読んで"
+        "kana": "よんで"
       },
       "teForm": {
         "kanji": "読んだ",
-        "kana": "読んだ"
+        "kana": "よんだ"
       }
     }
   },

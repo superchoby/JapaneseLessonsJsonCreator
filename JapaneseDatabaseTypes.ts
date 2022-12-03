@@ -33,7 +33,7 @@ export type JapaneseDatabaseType = {
 
 const うCharToDiffCharObj = {
     'う': {
-        あ: 'あ',
+        あ: 'わ',
         い: 'い',
         charBeforeTe: 'っ',
         endsWithATe: true,
@@ -124,8 +124,8 @@ export const getVerbConjugations = (verbKanji: string, verbKana: string, verbTyp
     } else if (verbType === GODAN_GROUP) {
         const lastChar = verbKanji.slice(-1) as keyof typeof うCharToDiffCharObj
 
-        const wordUpToLastCharKanji = verbKanji.substring(0, verbKana.length - 1)
-        const wordUpToLastCharKana = verbKanji.substring(0, verbKana.length - 1)
+        const wordUpToLastCharKanji = verbKanji.substring(0, verbKanji.length - 1)
+        const wordUpToLastCharKana = verbKana.substring(0, verbKana.length - 1)
 
         const {
             い: いSound,
