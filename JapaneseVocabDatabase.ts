@@ -2,10 +2,15 @@ import {
     ICHIDAN_GROUP,
     GODAN_GROUP,
     IRREGULAR_VERB_GROUP,
-    JapaneseDatabaseType,
+    // JapaneseDatabaseType,
+    getVerbConjugations,
 } from "./JapaneseDatabaseTypes"
+import { JapaneseDatabaseType } from "./EachLessonsContent/SharedVariables"
+// import { 
+//     ,
+// } from "./JapaneseDatabaseTypes"
 
-export const JapaneseDatabase: JapaneseDatabaseType = {
+const JapaneseVocabDatabase: any = {
     "食べる": {
         word: "食べる",
         kanaVersion: "たべる",
@@ -82,3 +87,9 @@ export const JapaneseDatabase: JapaneseDatabaseType = {
         verbGroup: IRREGULAR_VERB_GROUP,
     },
 }
+
+for (const [key, {word, kanaVersion, verbGroup}] of Object.entries(JapaneseVocabDatabase as JapaneseDatabaseType)) {
+    JapaneseVocabDatabase[key].conjugations = getVerbConjugations(word, kanaVersion, verbGroup)
+}
+
+export default JapaneseVocabDatabase
